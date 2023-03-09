@@ -1,4 +1,4 @@
-👋 Hi, I’m @HolgerGraef
+👋 Hi, I’m Holger Graef
 
 👀 I’m interested in embedded software, IoT and semiconductor physics
 
